@@ -1,0 +1,4 @@
+*.pyc
+.env
+bitx.egg-info
+dist
